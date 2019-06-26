@@ -1,0 +1,23 @@
+.mapbox {
+  width: 60%;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.links {
+  width: 30%;
+  margin: auto;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 100px;
+  font-size: 120%;
+}
+
+body {
+  background-color: rgb(249, 249, 255);
+  font-family: Helvetica Neue, Helvetica, Verdana, sans-serif;
+}
+
+a {
+  color: #480742;
+}
